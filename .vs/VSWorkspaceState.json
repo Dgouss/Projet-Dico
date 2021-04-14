@@ -2,10 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\ConsoleApp1",
-    "\\ConsoleApp1\\ConsoleApp1",
-    "\\ConsoleApp1\\Controller",
-    "\\ConsoleApp1\\Controller\\obj",
-    "\\ConsoleApp1\\Metier"
+    "\\ConsoleApp1\\ConsoleApp1"
   ],
   "SelectedNode": "\\ConsoleApp1\\ConsoleApp1.sln",
   "PreviewInSolutionExplorer": false

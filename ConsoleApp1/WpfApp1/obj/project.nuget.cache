@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RS9MCy8IFSZCCLB4l+XGKBBrfQOB60+sISCFatrxtTtyJ6hbI7n2rNf+0We/2mQ6ieZ5sdeaAc4BfwPtZ34FuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\donag\\Documents\\Documents\\A COURS CESI\\A3\\RattrapageC#\\ConsoleApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\donag\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DsGzivJh6Ec1YrujeZmvmpN8JrS+wYy+CjrK9PC6lX1sBtCLYcLMSdn/8zjgwr75gPk4ydJfEqoNsaJ8uIFcWw==",
+  "dgSpecHash": "VK3/S9BRM5+APidU9Q+/LvET2YDOsUIVoT+cjROiLokipZVdbOxHgBjoLcv+n6eLnlHPu8D8WO422WIfie38wg==",
   "success": true,
   "projectFilePath": "C:\\Users\\donag\\Documents\\Documents\\A COURS CESI\\A3\\RattrapageC#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\donag\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -29,8 +29,11 @@ namespace ConsoleApp1
                 }
             }
             c.source = source;
-            c.CountChar();
-/*            Console.WriteLine("Do you want to save your search ? (y,n) :");
+            //c.CountChar();
+            //c.CountWord();
+            //c.WriteSave();
+
+            /*Console.WriteLine("Do you want to save your search ? (y,n) :");
             string validate = "";
             do
             {
@@ -48,8 +51,7 @@ namespace ConsoleApp1
                 {
                     Console.WriteLine("Please try again! Enter \"y\" to save and \"n\" to cancel your work:");
                 }
-            } while (validate != "y" && validate != "n");
-*/
+            } while (validate != "y" && validate != "n");*/
         }
     }
 
